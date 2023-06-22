@@ -1,0 +1,10 @@
+{
+    "storage_path" : "storage",
+    "pid_file" : "storage/sync.pid",
+
+    "webui" :
+    {
+        "force_https": true,
+        "listen" : "127.0.0.1:8888"
+    }
+}
